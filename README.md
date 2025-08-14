@@ -207,16 +207,8 @@ The application provides the following API endpoints:
 ## Contact
 
 Feel free to connect with me:
-- **LinkedIn:** [umarkhan24](https://linkedin.com/in/umarkhan42)
+- **LinkedIn:** [umarkhan24](https://linkedin.com/in/umarkhan24)
 - **GitHub:** [Umar-khan6](https://github.com/Umar-khan6)
 - **Email:** umarkhan655020@gmail.com
 
   
-
----
-
-## Acknowledgments
-
-- **Inter Font** - Modern typography
-- **Feather Icons** - Beautiful SVG icons
-- **CSS Glassmorphism** - Modern UI design trend
