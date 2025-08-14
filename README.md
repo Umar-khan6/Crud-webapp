@@ -25,6 +25,12 @@ A modern, responsive Contact Management System built with **PHP, MySQL, HTML, CS
 
 ---
 
+## Live Demo
+
+[View Live Demo](https://crudappbyumarkhan.cloud11.co/)
+
+---
+
 ## Database Schema
 
 The system uses a MySQL database with the following structure:
