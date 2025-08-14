@@ -5,7 +5,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-A modern, responsive Contact Management System built with **PHP, MySQL, HTML, CSS, and JavaScript**. Features a sleek glassmorphism UI with dark/light theme support and complete CRUD operations for managing contacts efficiently.
+A modern, responsive Contact Management System built with **PHP, MySQL, HTML, CSS, and JavaScript**. Features a sleek glassmorphism UI with support for dark/light themes, as well as complete CRUD operations for managing contacts efficiently.
 
 ---
 
@@ -210,5 +210,4 @@ Feel free to connect with me:
 - **LinkedIn:** [umarkhan24](https://linkedin.com/in/umarkhan24)
 - **GitHub:** [Umar-khan6](https://github.com/Umar-khan6)
 - **Email:** umarkhan655020@gmail.com
-
   
