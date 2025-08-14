@@ -1,0 +1,14 @@
+-- Create database
+CREATE DATABASE IF NOT EXISTS contacts_db;
+USE contacts_db;
+
+-- Create contacts table
+CREATE TABLE IF NOT EXISTS contacts (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(255) NOT NULL,
+    email VARCHAR(255),
+    phone VARCHAR(50),
+    notes TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
