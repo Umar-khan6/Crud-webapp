@@ -62,7 +62,7 @@ The system uses a MySQL database with the following structure:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/contacts-crud.git
+git clone https://github.com/Umar-khan6/contacts-crud.git
 cd contacts-crud
 ```
 
@@ -86,7 +86,7 @@ cd contacts-crud
    ```
 
 ### 3. Web Server Configuration
-- **Apache**: Place files in your web directory (htdocs/www)
+- **Apache**: Place files in your web directory (htdocs/foldername)
 - **Nginx**: Configure PHP-FPM and point to the project directory
 - **Local Development**: Use PHP built-in server:
    ```bash
@@ -203,17 +203,6 @@ The application provides the following API endpoints:
 
 ---
 
-## Future Enhancements
-
-- [ ] **Import/Export** (CSV, Excel)
-- [ ] **Contact Photos** (Image Upload)
-- [ ] **Bulk Operations** (Multi-select Actions)
-- [ ] **Advanced Filters** (Date Range, Categories)
-- [ ] **Email Integration** (Send Emails Directly)
-- [ ] **REST API** (Full API with Authentication)
-- [ ] **Mobile App** (React Native/Flutter)
-
----
 
 ## Contact
 
@@ -222,11 +211,7 @@ Feel free to connect with me:
 - **GitHub:** [Umar-khan6](https://github.com/Umar-khan6)
 - **Email:** umarkhan655020@gmail.com
 
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+  
 
 ---
 
